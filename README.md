@@ -121,5 +121,3 @@ Follow these steps to resolve it:
 ## Conclusion
 
 By following these steps, you should be able to resolve common SSH issues such as permission denials and connection refusals. If problems persist, further investigation of the server logs (`/var/log/auth.log`) may be necessary to identify specific causes.
-
-```
